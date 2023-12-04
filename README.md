@@ -222,7 +222,7 @@
 ---
 <h1 align="center">Stats</h1>
 <h3 align="center"><ins>Visitor's count</ins></h3>
-<p align="center"><code><img src="[https://profile-counter.glitch.me/{AnhellO}/count.svg](https://profile-counter.glitch.me/%7BMr5ecret%7D/count.svg)" alt="Mr5ecret :: Visitor's Count" /></code></p>
+<p align="center"><code><img src="https://profile-counter.glitch.me/%7BMr5ecret%7D/count.svg" alt="Mr5ecret :: Visitor's Count" /></code></p>
 
 <h3 align="center"><ins>Profile stats</ins></h3>
 <p align="center">
