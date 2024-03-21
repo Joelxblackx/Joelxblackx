@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<h1 align="center">Hi 👋, I'm Mr5ecret</h1>
+<h1 align="center">Hi 👋, I'm JoelX</h1>
 <h3 align="center">A passionate developer from <ins><s>Mars</s></ins> Estonia</h3>
 
 <p align="center">
