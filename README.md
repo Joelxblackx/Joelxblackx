@@ -65,8 +65,8 @@
 <p align="center">
  <a href="https://github.com/Mr5ecret">
   <code><img
-   src="https://github-readme-stats.vercel.app/api?username=Mr5ecret&count_private=true&show_icons=true&text_color=FFFFFF&border_color=00d575&bg_color=2e2e2e&icon_color=00d575&title_color=00d575&border_radius=6"
-   alt="Mr5ecret's GitHub stats"
+   src="https://github-readme-stats.vercel.app/api?username=Joelxblackx&count_private=true&show_icons=true&text_color=FFFFFF&border_color=00d575&bg_color=2e2e2e&icon_color=00d575&title_color=00d575&border_radius=6"
+   alt="JoelX BlackX's GitHub stats"
   /></code>
  </a>
 </p>
@@ -76,7 +76,7 @@
   <code><img
    width="50%"
    src="https://github-readme-stats.vercel.app/api/wakatime?username=Mr5ecret&langs_count=10&bg_color=2e2e2e&text_color=FFFFFF&show_icons=true&border_color=00d575&border_radius=6&title_color=00d575&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
-   alt="Mr5ecret's wakatime last year stats"
+   alt="JoelX BlackX's wakatime last year stats"
   /></code>
  </a>
  
