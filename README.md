@@ -5,7 +5,7 @@
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy"
   ><code><img
-   src="https://github-profile-trophy.vercel.app/?username=mr5ecret&rank=-C,-B,-?&column=3&margin-w=15&margin-h=15&theme=gitdimmed&no-frame=true"
+   src="https://github-profile-trophy.vercel.app/?username=joelxblackx&rank=-C,-B,-?&column=3&margin-w=15&margin-h=15&theme=gitdimmed&no-frame=true"
    alt="mr5ecret"
  /></code></a>
 </p>
@@ -33,19 +33,6 @@
 </p>
 
 ---
-<h2 align="center">Support Me</h2>
-<p align="center">
- <a href="https://www.buymeacoffee.com/mr5ecret">
-  <code><img
-   src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-   height="50"
-   width="210"
-   alt="mr5ecret"
- /></code></a>
-</p>
-
-
----
 <h2 align="center">Discord</h2>
 <p align="center">
  <a href="https://discord.com/users/572804422007259136">
@@ -59,11 +46,11 @@
 ---
 <h1 align="center">Stats</h1>
 <h3 align="center"><ins>Visitor's count</ins></h3>
-<p align="center"><code><img src="https://profile-counter.glitch.me/%7BMr5ecret%7D/count.svg" alt="Mr5ecret :: Visitor's Count" /></code></p>
+<p align="center"><code><img src="https://profile-counter.glitch.me/%7BJoelxblackx%7D/count.svg" alt="Joelxblackx :: Visitor's Count" /></code></p>
 
 <h3 align="center"><ins>Profile stats</ins></h3>
 <p align="center">
- <a href="https://github.com/Mr5ecret">
+ <a href="https://github.com/Joelxblackx">
   <code><img
    src="https://github-readme-stats.vercel.app/api?username=Joelxblackx&count_private=true&show_icons=true&text_color=FFFFFF&border_color=00d575&bg_color=2e2e2e&icon_color=00d575&title_color=00d575&border_radius=6"
    alt="JoelX BlackX's GitHub stats"
@@ -72,10 +59,10 @@
 </p>
 <h3 align="center"><ins>Top langs</ins></h3>
 <div align="center" style="text-align: center">
- <a href="https://wakatime.com/@Mr5ecret/">
+ <a href="https://wakatime.com/@Joelxblackx/">
   <code><img
    width="50%"
-   src="https://github-readme-stats.vercel.app/api/wakatime?username=Mr5ecret&langs_count=10&bg_color=2e2e2e&text_color=FFFFFF&show_icons=true&border_color=00d575&border_radius=6&title_color=00d575&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+   src="https://github-readme-stats.vercel.app/api/wakatime?username=Joelxblackx&langs_count=10&bg_color=2e2e2e&text_color=FFFFFF&show_icons=true&border_color=00d575&border_radius=6&title_color=00d575&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
    alt="JoelX BlackX's wakatime last year stats"
   /></code>
  </a>
