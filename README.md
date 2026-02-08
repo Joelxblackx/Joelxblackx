@@ -1,39 +1,111 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d575&height=120&section=header&text=Joelxblackx&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=Full-Stack%20Developer%20%7C%20Game%20Servers%20Developer%20%7C%20Discord%20Bot%20Specialist&descAlignY=55&descAlign=50" width="100%"/>
+</p>
+
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<h1 align="center">Hi 👋, I'm JoelX</h1>
-<h3 align="center">A passionate developer from <ins><s>Mars</s></ins> Estonia</h3>
+
+<h1 align="center">Hi 👋, I'm Joelxblackx</h1>
+<h3 align="center">Full-Stack Developer & Game Servers Developer & Discord Bot Specialist from <ins><s>Mars</s></ins> Estonia 🇪🇪</h3>
 
 <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy"
-  ><code><img
-   src="https://github-profile-trophy.vercel.app/?username=joelxblackx&rank=-C,-B,-?&column=3&margin-w=15&margin-h=15&theme=gitdimmed&no-frame=true"
-   alt="mr5ecret"
- /></code></a>
+  <a href="https://github.com/Joelxblackx">
+    <img src="https://img.shields.io/github/followers/Joelxblackx?label=Followers&style=for-the-badge&logo=github&color=00d575" alt="GitHub Followers"/>
+  </a>
+  <a href="https://discord.com/users/572804422007259136">
+    <img src="https://img.shields.io/badge/Discord-JoelX-00d575?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://wakatime.com/@Joelxblackx">
+    <img src="https://wakatime.com/badge/user/2a72adb1-c939-46f0-bd08-e94e81d00af7.svg?style=for-the-badge&color=00d575" alt="WakaTime"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>🚀 Building powerful Discord bots | 🎮 Game servers developer | 💻 Open-source enthusiast</i>
 </p>
 
 ---
-<h2 align="center">What i know</h2>
-<h3 align="center"><ins>Programming Languages</ins></h3>
+
+
+## 💻 Tech Stack & Skills
+
+<details open>
+<summary><b>🔤 Programming Languages</b></summary>
+<br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,bash,js,ts" alt="Programming Languages">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,cpp,cs,bash,python" alt="Programming Languages">
+</p>
+</details>
+
+<details open>
+<summary><b>🌐 Web Development</b></summary>
+<br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vue,react,nuxtjs,nodejs,express" alt="Web Development">
+</p>
+</details>
+
+<details open>
+<summary><b>🎨 Styling & Design</b></summary>
+<br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,md,sass,tailwind,bootstrap" alt="Styling & Design">
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Backend</b></summary>
+<br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite" alt="Databases">
+</p>
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Environments</b></summary>
+<br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,visualstudio,postman,electron,dotnet,ps" alt="Tools & Environments">
+</p>
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & Deployment</b></summary>
+<br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,cloudflare" alt="Cloud & Deployment">
+</p>
+</details>
+
+---
+
+## 🚀 Currently Working On
+
+- 🤖 **KR0KΞN Discord Bot** - Advanced multi-purpose Discord bot with ticketing, suggestions, and bug tracking
+- 🎵 **Lavalink Music System** - High-quality music player with filters and queue management
+- 🎮 **Twitch Integration** - Real-time stream notifications with auto token refresh
+- 📊 **Database Systems** - MySQL/Knex.js integration for persistent data storage
+- 🔧 **Custom Discord.js Utilities** - Building reusable components for Discord bot development
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/Joelxblackx">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joelxblackx&theme=dark&background=2e2e2e&ring=00d575&fire=00d575&currStreakLabel=00d575&sideLabels=00d575&border=00d575&dates=FFFFFF" alt="GitHub Streak"/>
+  </a>
 </p>
 
-<h3 align="center"><ins>Web Development Frameworks and Libraries</ins></h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vue,react,nuxtjs" alt="Web Development Frameworks and Libraries">
-</p>
-
-<h3 align="center"><ins>Markup and Styling</ins></h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=md,sass,tailwind,bootstrap" alt="Markup and Styling">
-</p>
-
-<h3 align="center"><ins>Development Tools and Environments</ins></h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,electron,git,linux,ps,postman,visualstudio,vscode" alt="Development Tools and Environments">
+  <a href="https://github.com/Joelxblackx">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joelxblackx&theme=github-compact&bg_color=2e2e2e&color=00d575&line=00d575&point=FFFFFF&area=true&hide_border=false&border=00d575" alt="Contribution Graph"/>
+  </a>
 </p>
 
 ---
-<h2 align="center">Discord</h2>
+
+## 💬 Connect With Me
+
 <p align="center">
  <a href="https://discord.com/users/572804422007259136">
   <code><img
@@ -43,35 +115,47 @@
  </a>
 </p>
 
----
-<h1 align="center">Stats</h1>
-<h3 align="center"><ins>Visitor's count</ins></h3>
-<p align="center"><code><img src="https://profile-counter.glitch.me/%7BJoelxblackx%7D/count.svg" alt="Joelxblackx :: Visitor's Count" /></code></p>
+<p align="center">
+  <a href="https://discord.com/users/572804422007259136">
+    <img src="https://img.shields.io/badge/Discord-JoelX-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://github.com/Joelxblackx">
+    <img src="https://img.shields.io/badge/GitHub-Joelxblackx-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://wakatime.com/@Joelxblackx">
+    <img src="https://img.shields.io/badge/WakaTime-Joelxblackx-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime"/>
+  </a>
+</p>
 
-<h3 align="center"><ins>Profile stats</ins></h3>
-<p align="center">
- <a href="https://github.com/Joelxblackx">
-  <code><img
-   src="https://github-readme-stats.vercel.app/api?username=Joelxblackx&count_private=true&show_icons=true&text_color=FFFFFF&border_color=00d575&bg_color=2e2e2e&icon_color=00d575&title_color=00d575&border_radius=6"
-   alt="JoelX BlackX's GitHub stats"
-  /></code>
- </a>
-</p>
-<h3 align="center"><ins>Top langs</ins></h3>
-<div align="center" style="text-align: center">
- <a href="https://wakatime.com/@Joelxblackx/">
-  <code><img
-   width="50%"
-   src="https://github-readme-stats.vercel.app/api/wakatime?username=Joelxblackx&langs_count=10&bg_color=2e2e2e&text_color=FFFFFF&show_icons=true&border_color=00d575&border_radius=6&title_color=00d575&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
-   alt="JoelX BlackX's wakatime last year stats"
-  /></code>
- </a>
- 
 ---
-<p align="center">
- <h3><ins>Made with :heart: &nbsp;using GitHub Markdown</ins></h3>
-  <br/>
-   <br/>
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</p>
+
+<div align="center">
+
+### 💡 Fun Fact
+
+*"Any sufficiently advanced technology is indistinguishable from magic."* - Arthur C. Clarke
+
+### 🎯 2026 Goals
+
+- 🚀 Launch KR0KΞN bot to 100+ servers
+- 📚 Contribute to more open-source projects
+- 🎓 Master advanced Discord.js patterns and architectures
+- 🌟 Build innovative gaming community tools
+
 </div>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="25%">
+</p>
+
+<p align="center">
+  <sub>⚡ Built with ❤️ using GitHub Markdown ⚡</sub>
+  <br>
+  <sub>💻 Open to collaboration and new opportunities 💻</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d575&height=100&section=footer" width="100%"/>
+</p>
